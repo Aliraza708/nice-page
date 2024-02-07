@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
 }
+.nav img{
+       width: 100px;
+    
+}
+
 .main{
     background-color:#C9C9B6;
     height:1800px;
@@ -9,6 +14,7 @@
     position: relative;
 }
 .container{
+    /* margin-top: 20px; */
     background-color: #9F9F8F;
     height: 1750px;
     width: 400px;
